@@ -3,7 +3,9 @@
  Seja bem vindo ao meu Github onde posto meus projetos com Cloud, fortemente a AZURE que é a cloud que mais utilizo no meu dia a dia.
 
 💻 Trabalho com Administração de Sistemas Cloud - DevOps
+
 🔭 Graduado em Sistemas para Internet
+
 📚 Aprimorando meus conhecimento em Cloud 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-arcanjo-oliveira/)
