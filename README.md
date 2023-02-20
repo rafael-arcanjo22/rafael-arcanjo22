@@ -1,6 +1,6 @@
 ### Olá eu sou Rafael Arcanjo 👋
 
- Seja bem vindo ao meu Github onde posto meus projetos com Cloud, fortemente a AZURE que é a cloud que mais utilizo no meu dia a dia.
+ Seja bem vindo ao meu Github onde posto meus projetos com Cloud, no meu dia a dia, utiliza as principais cloud's Azure, GCP e AWS
 
 💻 Trabalho com Administração de Sistemas Cloud - DevOps
 
