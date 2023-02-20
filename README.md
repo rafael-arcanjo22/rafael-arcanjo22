@@ -9,6 +9,5 @@
 ## Ferramentas que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
-  <igm aLign="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
- 
-</div>
+  <igm align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+ </div>
