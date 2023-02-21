@@ -15,9 +15,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 
 ##
-![Rafael Arcanjo GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-arcanjo22&show_icons=true&theme=dark)
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
